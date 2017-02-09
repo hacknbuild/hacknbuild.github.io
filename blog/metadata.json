@@ -1,0 +1,23 @@
+[{
+  "title": "DIY DSLR Microscope Mount",
+  "url":"DSLR-Microscope-Mount",
+  "description":"Build a DSLR microscope mount from PVC pipe and jeweler's loupes.",
+  "videoKey": "AzlGhnGa2GM",
+  "date": "2017-01-31",
+  "id": "HNB3",
+  "tags": [ "microscope", "diy", "lens", "hnb" ]
+}, { "title": "Harbor Freight Fixturing Clamp",
+  "url":"Harbor-Freight-Fixturing-Clamp",
+  "videoKey":"RXrQQGfPVVU",
+ "description":"A handy helping hand that is made from 6\" bar clamps and 5/8\" hardware.",
+  "date":"2017-01-02",
+  "id": "HNB1",
+   "tags": ["clamp","woodworking","welding","hack","build"]
+}, { "title": "Easy Torsion Box Workbench Plans",
+  "url":"Simple-Torsion-Box-Workbench",
+  "description":"Build a simple and inexpensive torsion box workbench using dimensional lumber and plywood.",
+  "videoKey":"J-tINbf2OhI",
+  "date":"2017-01-11",
+  "id": "HNB2",
+  "tags": ["woodworking","work bench","build"]
+}]
