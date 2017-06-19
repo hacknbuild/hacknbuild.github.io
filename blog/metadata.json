@@ -1,11 +1,4 @@
-[{ "title": "Harbor Freight Fixturing Clamp",
-  "url":"Harbor-Freight-Fixturing-Clamp",
-  "videoKey":"RXrQQGfPVVU",
- "description":"A handy helping hand that is made from 6\" bar clamps and 5/8\" hardware.",
-  "date":"2017-01-02",
-  "id": "HNB1",
-   "tags": ["clamp","woodworking","welding","hack","build"]
-}, {
+[{
   "title": "DIY DSLR Microscope Mount",
   "url":"DSLR-Microscope-Mount",
   "description":"Build a DSLR microscope mount from PVC pipe and jeweler's loupes.",
@@ -13,6 +6,41 @@
   "date": "2017-01-31",
   "id": "HNB3",
   "tags": [ "microscope", "diy", "lens", "hnb" ]
+}, { "title": "Harbor Freight Fixturing Clamp",
+  "url":"Harbor-Freight-Fixturing-Clamp",
+  "videoKey":"RXrQQGfPVVU",
+ "description":"A handy helping hand that is made from 6\" bar clamps and 5/8\" hardware.",
+  "date":"2017-01-02",
+  "id": "HNB1",
+   "tags": ["clamp","woodworking","welding","hack","build"]
+}, { "title": "70 Electric Sawmill",
+  "url":"70-Dollar-Electric-Sawmill",
+  "description":"What do you get when you combine a $40 electric chainsaw and a $30 beam cutting guide? A $70 electric sawmill.",
+  "videoKey":"W2qy5QB6fhU",
+  "date":"2017-04-30",
+  "id": "HNB7",
+  "tags": ["woodworking"]
+}, { "title": "Probiotic Fermented Hot Sauce",
+  "url":"Probiotic-Fermented-Hot-Sauce",
+  "videoKey":"YZ-K8CV2YQ0",
+ "description":"Awesome Jalepeno hot sauce recipe.",
+  "date":"2017-03-13",
+  "id": "HNB5",
+   "tags": ["food","pickling","hnb"]
+}, { "title": "Simple Low Cost Beekeeping",
+  "url":"Simple-Low-Cost-Beekeeping",
+  "description":"An introduction to the Simple Low Cost Beekeeping series.",
+  "videoKey":"Mi1hPJlV1sU",
+  "date":"2017-06-11",
+  "id": "HNBEES1",
+  "tags": ["beekeeping","bees","build"]
+}, { "title": "Saw Blade Survival Machete",
+  "url":"Survival-Machete",
+  "description":"A machete is created from a junk sawblade and a walnut log.",
+  "videoKey":"zYLXYGBDTMA", 
+  "date":"2017-02-20",
+  "id": "HNB4",
+  "tags": ["woodworking","knife making","build","machete"]
 }, { "title": "Easy Torsion Box Workbench Plans",
   "url":"Simple-Torsion-Box-Workbench",
   "description":"Build a simple and inexpensive torsion box workbench using dimensional lumber and plywood.",
@@ -20,4 +48,11 @@
   "date":"2017-01-11",
   "id": "HNB2",
   "tags": ["woodworking","work bench","build"]
+}, { "title": "Build a swarm trap",
+  "url":"Swarm-Trap",
+  "description":"Learn how to build a swarm trap and catch free bees!",
+  "videoKey":"4Di21MOQe_E",
+  "date":"2017-06-18",
+  "id": "HNBEES2",
+  "tags": ["woodworking","beekeeping","bees","build"]
 }]
