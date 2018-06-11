@@ -13,6 +13,14 @@
   "id": "HNB9",
   "tags": ["metalworking","blacksmith","upcycling"],
    "featured":"1"
+}, { "title": "Chip Carving Knives",
+  "url":"Chip-Carving-Knives",
+  "description":"Carving knives made from a sawblade and firewood.",
+  "videoKey":"CUsqGGixbPo",
+  "date":"2018-03-04",
+  "id": "HNB16",
+  "tags": ["sawblade","knives", "carving knives"],
+    "featured":"1"
 }, { "title": "Simple Dust Collector vs Dust Deputy",
   "url":"DIY-Dust-Collector-vs-Dust-Deputy",
   "description":"See how well this simple dust collection cyclone stacks up against the Onieda Dust Deputy",
@@ -21,6 +29,14 @@
   "id": "HNB8",
   "tags": ["woodworking","workshop"],
   "featured":"1"
+}, { "title": "Upcycled Bowl Carving Knife",
+  "url":"Hook-Knife",
+  "description":"Hook knife made from a saw blade and firewood.",
+  "videoKey":"iIx2CcqfsG4",
+  "date":"2018-03-24",
+  "id": "HNB17",
+  "tags": ["sawblade","knives", "carving knives", "hook knife"],
+    "featured":"1"
 }, {
   "title": "DIY DSLR Microscope Mount",
   "url":"DSLR-Microscope-Mount",
@@ -37,13 +53,14 @@
   "id": "HNB1",
   "tags": ["clamp","woodworking","welding","hack","build"],
   "featured":"1"
-}, { "title": "Simple Low Cost Beekeeping",
-  "url":"Simple-Low-Cost-Beekeeping",
-  "description":"An introduction to the Simple Low Cost Beekeeping series.",
-  "videoKey":"Mi1hPJlV1sU",
-  "date":"2017-06-11",
-  "id": "HNBEES1",
-  "tags": ["beekeeping","bees","build"]
+}, { "title": "Portable Solid Fuel Forge - Part One",
+  "url":"Portable-Forge-Part-1",
+  "description":"Design of a portable solid fuel forge.",
+  "videoKey":"uv5KsCoo0fE",
+  "date":"2018-04-08",
+  "id": "HNB18",
+  "tags": ["forge","blacksmith", "welding project"],
+    "featured":"1"
 }, { "title": "Probiotic Fermented Hot Sauce",
   "url":"Probiotic-Fermented-Hot-Sauce",
   "videoKey":"YZ-K8CV2YQ0",
@@ -51,6 +68,13 @@
   "date":"2017-03-13",
   "id": "HNB5",
    "tags": ["food","pickling","hnb"]
+}, { "title": "Simple Low Cost Beekeeping",
+  "url":"Simple-Low-Cost-Beekeeping",
+  "description":"An introduction to the Simple Low Cost Beekeeping series.",
+  "videoKey":"Mi1hPJlV1sU",
+  "date":"2017-06-11",
+  "id": "HNBEES1",
+  "tags": ["beekeeping","bees","build"]
 }, { "title": "Easy Torsion Box Workbench Plans",
   "url":"Simple-Torsion-Box-Workbench",
   "description":"Build a simple and inexpensive torsion box workbench using dimensional lumber and plywood.",
@@ -58,6 +82,14 @@
   "date":"2017-01-11",
   "id": "HNB2",
   "tags": ["woodworking","work bench","build"],
+    "featured":"1"
+}, { "title": "Studio-Lighting",
+  "url":"Studio-Lighting",
+  "description":"Studio light you can make from a $12 vanity fixture.",
+  "videoKey":"uro8ZwZGZFM",
+  "date":"2018-01-01",
+  "id": "HNB12",
+  "tags": ["diy","ligthing"],
     "featured":"1"
 }, { "title": "Saw Blade Survival Machete",
   "url":"Survival-Machete",
@@ -67,13 +99,6 @@
   "id": "HNB4",
   "tags": ["woodworking","knife making","build","machete"],
     "featured":"1"
-}, { "title": "Build a swarm trap",
-  "url":"Swarm-Trap",
-  "description":"Learn how to build a swarm trap and catch free bees!",
-  "videoKey":"4Di21MOQe_E",
-  "date":"2017-06-18",
-  "id": "HNBEES2",
-  "tags": ["woodworking","beekeeping","bees","build"]
 }, { "title": "Thein Baffle Compared to Dust Deputy",
   "url":"Thein-Baffle-vs-Dust-Deputy",
   "description":"See how well our build of a Thein Ballfe cyclone seperator stacks up against the Onieda Dust Deputy",
@@ -82,4 +107,11 @@
   "id": "HNB8",
   "tags": ["woodworking","workshop"],
     "featured":"1"
+}, { "title": "Build a swarm trap",
+  "url":"Swarm-Trap",
+  "description":"Learn how to build a swarm trap and catch free bees!",
+  "videoKey":"4Di21MOQe_E",
+  "date":"2017-06-18",
+  "id": "HNBEES2",
+  "tags": ["woodworking","beekeeping","bees","build"]
 }]
